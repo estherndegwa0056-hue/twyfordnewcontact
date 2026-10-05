@@ -1,0 +1,130 @@
+KPFC HARDWARE - PRODUCT IMAGE MAP
+
+Total products: 126
+
+1. Cable & Hardware Fasteners -> assets/images/cable-and-hardware-fasteners.jpg
+2. Plastic Pipe Cement Clear -> assets/images/plastic-pipe-cement-clear.jpg
+3. Basin Waste -> assets/images/basin-waste.jpg
+4. Flexible Hose -> assets/images/flexible-hose.jpg
+5. Brass Valve -> assets/images/brass-valve.jpg
+6. Ball Valve -> assets/images/ball-valve.jpg
+7. PPR Fitting -> assets/images/ppr-fitting.jpg
+8. Pipe Clamp -> assets/images/pipe-clamp.jpg
+9. Tap Connector -> assets/images/tap-connector.jpg
+10. Water Tap -> assets/images/water-tap.jpg
+11. Floor Drain -> assets/images/floor-drain.jpg
+12. Pipe Repair Coupling -> assets/images/pipe-repair-coupling.jpg
+13. PVC Elbow -> assets/images/pvc-elbow.jpg
+14. PVC Tee -> assets/images/pvc-tee.jpg
+15. PVC Coupler -> assets/images/pvc-coupler.jpg
+16. Reducer Fitting -> assets/images/reducer-fitting.jpg
+17. Galvanized Elbow -> assets/images/galvanized-elbow.jpg
+18. Galvanized Tee -> assets/images/galvanized-tee.jpg
+19. Union Fitting -> assets/images/union-fitting.jpg
+20. Copper Elbow -> assets/images/copper-elbow.jpg
+21. Copper Tee -> assets/images/copper-tee.jpg
+22. Threaded Nipple -> assets/images/threaded-nipple.jpg
+23. PPR Elbow -> assets/images/ppr-elbow.jpg
+24. PPR Coupler -> assets/images/ppr-coupler.jpg
+25. Binding Wire -> assets/images/binding-wire.jpg
+26. Steel Bar -> assets/images/steel-bar.jpg
+27. Roofing Sheet -> assets/images/roofing-sheet.jpg
+28. Building Nails -> assets/images/building-nails.jpg
+29. Cement -> assets/images/cement.jpg
+30. Construction Mesh -> assets/images/construction-mesh.jpg
+31. Timber Accessory -> assets/images/timber-accessory.jpg
+32. Waterproofing Roll -> assets/images/waterproofing-roll.jpg
+33. Sand Paper -> assets/images/sand-paper.jpg
+34. Angle Bar -> assets/images/angle-bar.jpg
+35. Metal Sheet -> assets/images/metal-sheet.jpg
+36. Building Fasteners -> assets/images/building-fasteners.jpg
+37. Hand Saw -> assets/images/hand-saw.jpg
+38. Combination Pliers -> assets/images/combination-pliers.jpg
+39. Tape Measure -> assets/images/tape-measure.jpg
+40. Adjustable Wrench -> assets/images/adjustable-wrench.jpg
+41. Hammer -> assets/images/hammer.jpg
+42. Screwdriver Set -> assets/images/screwdriver-set.jpg
+43. Spirit Level -> assets/images/spirit-level.jpg
+44. Wheelbarrow -> assets/images/wheelbarrow.jpg
+45. Bolt Cutter -> assets/images/bolt-cutter.jpg
+46. Utility Knife -> assets/images/utility-knife.jpg
+47. Grinding Disc -> assets/images/grinding-disc.jpg
+48. Cordless Drill -> assets/images/cordless-drill.jpg
+49. Water Storage Tank -> assets/images/water-storage-tank.jpg
+50. Water Tank Fitting -> assets/images/water-tank-fitting.jpg
+51. Basin -> assets/images/basin.jpg
+52. Watering Can -> assets/images/watering-can.jpg
+53. Storage Container -> assets/images/storage-container.jpg
+54. Water Pump -> assets/images/water-pump.jpg
+55. Plastic Drum -> assets/images/plastic-drum.jpg
+56. Water Bucket -> assets/images/water-bucket.jpg
+57. Tank Connector -> assets/images/tank-connector.jpg
+58. Water Float Valve -> assets/images/water-float-valve.jpg
+59. Jerry Can -> assets/images/jerry-can.jpg
+60. Storage Bin -> assets/images/storage-bin.jpg
+61. Electrical Cable -> assets/images/electrical-cable.jpg
+62. Cable Clips -> assets/images/cable-clips.jpg
+63. PVC Conduit -> assets/images/pvc-conduit.jpg
+64. Switch Socket -> assets/images/switch-socket.jpg
+65. Junction Box -> assets/images/junction-box.jpg
+66. Cable Tie -> assets/images/cable-tie.jpg
+67. LED Bulb -> assets/images/led-bulb.jpg
+68. Circuit Breaker -> assets/images/circuit-breaker.jpg
+69. Plug Top -> assets/images/plug-top.jpg
+70. Electrical Tape -> assets/images/electrical-tape.jpg
+71. Distribution Box -> assets/images/distribution-box.jpg
+72. Cable Lug -> assets/images/cable-lug.jpg
+73. Safety Helmet -> assets/images/safety-helmet.jpg
+74. Reflective Vest -> assets/images/reflective-vest.jpg
+75. Work Gloves -> assets/images/work-gloves.jpg
+76. Safety Boots -> assets/images/safety-boots.jpg
+77. Dust Mask -> assets/images/dust-mask.jpg
+78. Ear Protection -> assets/images/ear-protection.jpg
+79. Safety Goggles -> assets/images/safety-goggles.jpg
+80. Warning Tape -> assets/images/warning-tape.jpg
+81. Industrial Brush -> assets/images/industrial-brush.jpg
+82. Protective Cover -> assets/images/protective-cover.jpg
+83. Work Apron -> assets/images/work-apron.jpg
+84. Safety Cone -> assets/images/safety-cone.jpg
+85. PVC Pipe Cement -> assets/images/pvc-pipe-cement.jpg
+86. Drainage Pipe -> assets/images/drainage-pipe.jpg
+87. Basin Waste -> assets/images/basin-waste-2.jpg
+88. Flexible Hose -> assets/images/flexible-hose-2.jpg
+89. Brass Valve -> assets/images/brass-valve-2.jpg
+90. Ball Valve -> assets/images/ball-valve-2.jpg
+91. PPR Fitting -> assets/images/ppr-fitting-2.jpg
+92. Pipe Clamp -> assets/images/pipe-clamp-2.jpg
+93. Tap Connector -> assets/images/tap-connector-2.jpg
+94. Water Tap -> assets/images/water-tap-2.jpg
+95. Floor Drain -> assets/images/floor-drain-2.jpg
+96. Pipe Repair Coupling -> assets/images/pipe-repair-coupling-2.jpg
+97. PVC Elbow -> assets/images/pvc-elbow-2.jpg
+98. PVC Tee -> assets/images/pvc-tee-2.jpg
+99. PVC Coupler -> assets/images/pvc-coupler-2.jpg
+100. Reducer Fitting -> assets/images/reducer-fitting-2.jpg
+101. Galvanized Elbow -> assets/images/galvanized-elbow-2.jpg
+102. Galvanized Tee -> assets/images/galvanized-tee-2.jpg
+103. Union Fitting -> assets/images/union-fitting-2.jpg
+104. Copper Elbow -> assets/images/copper-elbow-2.jpg
+105. Copper Tee -> assets/images/copper-tee-2.jpg
+106. Threaded Nipple -> assets/images/threaded-nipple-2.jpg
+107. PPR Elbow -> assets/images/ppr-elbow-2.jpg
+108. PPR Coupler -> assets/images/ppr-coupler-2.jpg
+109. Binding Wire -> assets/images/binding-wire-2.jpg
+110. Steel Bar -> assets/images/steel-bar-2.jpg
+111. Roofing Sheet -> assets/images/roofing-sheet-2.jpg
+112. Building Nails -> assets/images/building-nails-2.jpg
+113. Cement -> assets/images/cement-2.jpg
+114. Construction Mesh -> assets/images/construction-mesh-2.jpg
+115. Timber Accessory -> assets/images/timber-accessory-2.jpg
+116. Waterproofing Roll -> assets/images/waterproofing-roll-2.jpg
+117. Sand Paper -> assets/images/sand-paper-2.jpg
+118. Angle Bar -> assets/images/angle-bar-2.jpg
+119. Metal Sheet -> assets/images/metal-sheet-2.jpg
+120. Building Fasteners -> assets/images/building-fasteners-2.jpg
+121. Hand Saw -> assets/images/hand-saw-2.jpg
+122. Combination Pliers -> assets/images/combination-pliers-2.jpg
+123. Tape Measure -> assets/images/tape-measure-2.jpg
+124. Adjustable Wrench -> assets/images/adjustable-wrench-2.jpg
+125. Hammer -> assets/images/hammer-2.jpg
+126. Screwdriver Set -> assets/images/screwdriver-set-2.jpg
